@@ -274,8 +274,6 @@ export default function Home() {
               className="text-xs font-mono font-medium px-2.5 py-1 rounded-full flex items-center gap-1"
               style={{ background: "rgba(78,205,196,0.08)", color: "#4ecdc4", border: "1px solid rgba(78,205,196,0.15)" }}
             >
-              <span className="w-1.5 h-1.5 rounded-full bg-current animate-pulse-slow inline-block" />
-              AI Powered
             </div>
           </div>
 
@@ -434,7 +432,7 @@ export default function Home() {
         {/* Footer */}
         <div className="mt-16 pt-6 border-t text-center" style={{ borderColor: "#1e2535" }}>
           <p className="text-xs text-slate-700">
-            AIESEC TM Tool · MX Standards Mapper · Powered by Sentence Transformers
+            AIESEC in CS · MX Standards Mapper 
           </p>
         </div>
       </div>
